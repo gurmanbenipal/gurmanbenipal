@@ -5,7 +5,6 @@ Blending a mix of creative music production and full-stack development, I bring 
 📍 Vancouver, BC
 📧 [Email Me](mailto:gurmxnbenipal@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/gurmanbenipal/)
-🔗 [GitHub](https://github.com/gurmanbenipal)
 
 ---
 
@@ -27,7 +26,6 @@ Blending a mix of creative music production and full-stack development, I bring 
 3. **Slot Machine Game** - [Repository](https://github.com/gurmanbenipal/SLOT-MACHINE)
    - A browser-based slot machine simulation.
 
-📌 _[Check out these projects and more on my GitHub!](https://github.com/gurmanbenipal)_
 
 ---
 
