@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Gurman Benipal
 
-Blending a mix of creative music production and full-stack development, I bring a holistic approach to technology and arts. From dynamic web apps to compelling music tracks, I thrive in spaces that merge creativity with technology, delivering solutions that resonate.
+I combine creative problem-solving with strong technical skills in full-stack development. I've built web applications and tackled software challenges, always aiming to create solutions that users love.
 
 📍 Vancouver, BC
 📧 [Email Me](mailto:gurmxnbenipal@gmail.com)
